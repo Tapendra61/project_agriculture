@@ -1,0 +1,21 @@
+# Compiled files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.swp
+*~
+
+# Dependency files
+*.d
+
+# Directories
+bin/
+build/
